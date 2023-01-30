@@ -1,3 +1,3 @@
 # aiogram_bot_shabloni
-# Rasul_!212
-telegram bot uchun shablon
+# Rasul_1212
+# telegram bot uchun shablon
